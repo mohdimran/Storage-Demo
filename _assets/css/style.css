@@ -1,0 +1,5 @@
+/* CSS Document */
+
+img { max-width: 100%; }
+#item-image, #folder-image { text-align: center; }
+#item-image img, #folder-image img { max-width: 100%; border-radius: 15px; }

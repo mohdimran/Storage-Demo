@@ -1,0 +1,11 @@
+{ 
+  "name": "Storage Demo", 
+  "short_name": "Storage Demo", 
+  "start_url": "index.php", 
+  "display": "standalone", 
+  "icons": [{ 
+    "src": "https://storage-demo.mohdimran.com/_assets/img/apple-touch-icon.png", 
+    "sizes": "150x150", 
+    "type": "image/png" 
+  }]
+}
